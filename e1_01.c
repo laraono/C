@@ -5,9 +5,8 @@ int main() {
     float num;
     int numint;
     float resto;
-    // Write C code here
-    scanf("%f\n",&num);
-
+    
+    scanf("%f",&num);
     numint = (int) num;
     resto = num - numint;
     
