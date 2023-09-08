@@ -1,0 +1,33 @@
+sprintf(str,"%d",val) -> saída numa str nossa, permitindo concatenar e converter para hexa e etc
+
+
+char levdis(char str1[], char str2[]){
+    int lenStr1 = strlen(str1);
+    int lenStr2 = strlen(str2);
+    int tab[100][100];
+    int x,y,cost;
+    for(x=0;x<=lenStr1;x++){
+        tab[x][0] = x;
+    }
+    for(y=0;y<=lenStr2;y++){
+        tab[0][y] = y;
+    }
+
+    for(x=1; x<= lenStr1; x++){
+         for(y=1; y<= lenStr2; y++){ // m*n mais caro do que n^2
+
+            if(str1[x]==str2[y]){
+                cost=0;
+            }
+            else {
+                cost = 1;
+            }
+            tab[x][y] = min(
+                tab[x-1][y]+1,
+                tab[x][y-1]+1,
+                tab[x-1][y-1]+cost
+            );
+            return tab[lenStr1][lenStr2];
+         }
+    }
+}

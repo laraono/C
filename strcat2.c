@@ -16,7 +16,7 @@ int mystrcat(char str1[], const char str2[]) {
     return str1;
 }
 
-int mystrcat_ptr(const char *str1, const char *str2) { // const para não modificar parâmetro
+int mystrcat_ptr(char *str1, const char *str2) { // const para não modificar parâmetro
     char *ptr1 = (char *)str1; // cast evita warning do 'const'
     char *ptr2 = (char *)str2;
     while(*ptr1) {
