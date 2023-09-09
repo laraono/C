@@ -20,8 +20,10 @@ char catstr(char str1[], const char str2[]) {
 }
 
 char catstr_ptr(char *vet1, const char *vet2) {
-    char *ptr1=vet1;
-    char *ptr2=vet2;
+   char *ptr1 = NULL;
+    char *ptr2= NULL;
+    ptr =  vet1;
+    ptr2 =  vet2;
     
     while(*ptr1){
         ptr1++;

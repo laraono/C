@@ -17,7 +17,8 @@ char* strfnd(char str1[], char str2[]){
 }
 
 char* strfnd_ptr(char *str1, char *str2){
-    char *ptr1, *ptr2;
+    char *ptr1 = NULL;
+    char *ptr2= NULL;
 
     for(;*str1;str1++){
         ptr1 = str1;

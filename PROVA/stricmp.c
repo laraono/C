@@ -23,9 +23,11 @@ char cmpstr(const char str1[], const char str2[]) {
 }
 
 char cmpstr_ptr(const char *str, const char *str2){
-    char *ptr1=str;
-    char *ptr2=str2;
+    char *ptr1 = NULL;
+    char *ptr2= NULL;
     char x,y;
+    ptr =  str;
+    ptr2 =  str2;
     while((*ptr1 || *ptr2)){
         x=upper(*ptr1);
         y=upper(*ptr2);

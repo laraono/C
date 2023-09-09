@@ -13,9 +13,10 @@ char cmpstr(const char str1[], const char str2[]) {
 }
 
 char cmpstr_ptr(const char *str, const char *str2){
-    char *ptr1=str;
-    char *ptr2=str2;
-
+   char *ptr1 = NULL;
+    char *ptr2= NULL;
+    ptr =  str;
+    ptr2 =  str2;
     while((*ptr1 || *ptr2) && (*ptr1 == *ptr2)){
         ptr1++;
         ptr2++;

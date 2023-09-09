@@ -12,7 +12,8 @@ char* strfnd(char c, char str[]){
 }
 
 char* strfnd_ptr(char c, char *str[]){
-    char *ptr = str;
+    char *ptr = NULL;
+    ptr = str;
     while(*ptr){
         if(*ptr == c){
             return ptr;

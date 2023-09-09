@@ -10,7 +10,8 @@ int lenstr(const char vet[]){
 }
 
 int lenstr_ptr(const char *vet){
-    char *ptr = (char *)vet;
+    char *ptr = NULL;
+    ptr = (char *)vet;
     while(*ptr){
         ptr++;
     }

@@ -21,8 +21,10 @@ int pal(const char vet[], const char vet2[]){
 }
 
 int pal_ptr(const char *vet,const char *vet2){
-    char *ptr = vet;
-    char *ptr2 = vet2;
+    char *ptr = NULL;
+    char *ptr2 = NULL;
+    ptr = vet;
+    ptr = vet2;
     for(;*ptr;ptr++);
     ptr--;
     for(;*ptr2;ptr2++,ptr--){
