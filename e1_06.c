@@ -6,7 +6,7 @@ int main() {
     int num;
     
     scanf("%d", &num);
-    while (num != 0) {
+    while (num) {
         if(num % 2 == 0) {
             printf("%d par", num);
         }

@@ -13,7 +13,8 @@ int cmpstr(const char str1[], const char str2[],int num) {
 }
 
 int cmpstr_ptr(const char *str, const char *str2, const int num){
-    char *ptr1, *ptr2= NULL;
+    char *ptr1 = NULL;
+    char *ptr2= NULL;
     int n = num;
     ptr1 = str;
     ptr2 = str2;
