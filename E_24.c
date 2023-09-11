@@ -9,7 +9,7 @@ int main() {
     int num;
     scanf("%d",&num);
     char str[33];
-   sprintf(str,"%d",num);
+   sprintf(str,"%d\0",num);
    while(str[i]=='0'){
        i++;
    }
