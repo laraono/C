@@ -1,0 +1,12 @@
+CursoCod	CursoNome	Ciclo	CodDisc	NomeDisc	Professor	Vagas
+47	TADS	1	DS122	Desenvolvimento Web I (turma V2)	Alexander Kutzke	20
+48	TADS	1	DS131	Linguagem de Programação Orientada a Objetos I (turma N3)	Rafael Romualdo Wandresen	65
+47	TADS	1	DS630	Direito Aplicado (turma V3)	Silvana Maria Carbonera	40
+48	TADS	1	DS211	Sistemas de Informação (turma N1)	Mario de Paula Soares Filho	50
+48	TADS	1	DS140	Desenvolvimento Web II (turma N4)	Razer Anthom Nizer Rojas Montaño	60
+48	TADS	1	DS142	Linguagem de Programação Orientada a Objetos II (turma N4)	Rafael Romualdo Wandresen	65
+47	TADS	1	DS330	Banco de Dados II (turma N3)	Jeroniza Nunes Marchaukoski	40
+47	TADS	2	DS011	Introdução à Arquitetura de Computadores (turma V1)	Pedro Rodrigues Torres Junior	36
+47	TADS	2	DS131	Linguagem de Programação Orientada a Objetos I (turma V3)	Dieval Guizelini	65
+99	TS	2	ST036	Prática de Textos Persuasivos	Juliana da Silva Passos	55
+						

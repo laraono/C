@@ -1,0 +1,20 @@
+[
+   {
+      "CursoCod": "47",
+      "CursoNome": "TADS",
+      "Ciclo": "1",
+      "CodDisc": "DS122",
+      "NomeDisc": "Desenvolvimento Web I",
+      "Professor": "Alexander Kutzke",
+      "Vagas": "20"
+   },
+   {
+      "CursoCod": "48",
+      "CursoNome": "TADS",
+      "Ciclo": "1",
+      "CodDisc": "DS131",
+      "NomeDisc": "Linguagem de Programação Orientada a Objetos I",
+      "Professor": "Dieval Guizelini",
+      "Vagas": "65"
+   }
+]

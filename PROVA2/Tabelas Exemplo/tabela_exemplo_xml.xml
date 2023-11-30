@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabela_exemplo>
+  <registro>
+     <CursoCod>47</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>1</Ciclo>
+     <CodDisc>DS122</CodDisc>
+     <NomeDisc>Desenvolvimento Web I</NomeDisc>
+     <Professor>Alexander Kutzke</Professor>
+     <Vagas>20</Vagas>
+  </registro> 
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>1</Ciclo>
+     <CodDisc>DS131</CodDisc>
+     <NomeDisc>Linguagem de Programação Orientada a Objetos I</NomeDisc>
+     <Professor>Dieval Guizelini</Professor>
+     <Vagas>65</Vagas>  
+  </registro> 
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>1</Ciclo>
+     <CodDisc>DS630</CodDisc>
+     <NomeDisc>Direito Aplicado</NomeDisc>
+     <Professor>Silvana Maria Carbonera</Professor>
+     <Vagas>40</Vagas>
+  </registro> 
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>1</Ciclo>
+     <CodDisc>DS211</CodDisc>
+     <NomeDisc>Sistemas de Informação</NomeDisc>
+     <Professor>Mario de Paula Soares Filho</Professor>
+     <Vagas>50</Vagas>  
+  </registro> 
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>1</Ciclo>
+     <CodDisc>DS140	</CodDisc>
+     <NomeDisc>Desenvolvimento Web II</NomeDisc>
+     <Professor>Razer Anthom Nizer Rojas Montaño</Professor>
+     <Vagas>60</Vagas> 
+  </registro> 
+
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>1</Ciclo>
+     <CodDisc>DS142</CodDisc>
+     <NomeDisc>Linguagem de Programação Orientada a Objetos II</NomeDisc>
+     <Professor>Rafael Romualdo Wandresen</Professor>
+     <Vagas>65</Vagas>
+  </registro> 
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>1</Ciclo>
+     <CodDisc>DS330</CodDisc>
+     <NomeDisc>Banco de Dados II</NomeDisc>
+     <Professor>Jeroniza Nunes Marchaukoski</Professor>
+     <Vagas>40</Vagas>  
+  </registro> 
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>2</Ciclo>
+     <CodDisc>DS011</CodDisc>
+     <NomeDisc>Introdução à Arquitetura de Computadores</NomeDisc>
+     <Professor>Pedro Rodrigues Torres Junior</Professor>
+     <Vagas>36</Vagas>  
+  </registro> 
+  <registro>
+     <CursoCod>48</CursoCod>
+     <CursoNome>TADS</CursoNome>
+     <Ciclo>2</Ciclo>
+     <CodDisc>DS131</CodDisc>
+     <NomeDisc>Linguagem de Programação Orientada a Objetos I</NomeDisc>
+     <Professor>Dieval Guizelini</Professor>
+     <Vagas>65</Vagas>  
+  </registro> 
+  <registro>
+     <CursoCod>99</CursoCod>
+     <CursoNome>TS</CursoNome>
+     <Ciclo>2</Ciclo>
+     <CodDisc>ST036</CodDisc>
+     <NomeDisc>Prática de Textos Persuasivos</NomeDisc>
+     <Professor>Juliana da Silva Passos</Professor>
+     <Vagas>55</Vagas>  
+</registro> 
+</tabela_exemplo>
